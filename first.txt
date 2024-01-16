@@ -11,3 +11,11 @@ FOR SIRT TIME WE USED TO GIT CONFIG TO IDENTIFY WHO YOU ARE
 mkdr
 firt git clone to copy the url from the browser
   then git clone "Paste 
+git clone
+git status
+git add
+git status
+git cimmit -m " comment"
+git push origin main
+user name and password
+
