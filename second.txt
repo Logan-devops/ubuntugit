@@ -2,3 +2,5 @@ welcome to the world git
 am trying this git demo by using window
 just now i have learned about git checkout details
 
+THIS FILE IS CREATED FOR CHECKUOUT SAMBLE.
+
