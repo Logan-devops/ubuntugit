@@ -1,0 +1,13 @@
+Git Installation in ubuntu  
+  sudo apt install git
+  Terminal > sudo apt  update
+  T> sudo apt install git
+  git --version for checking the installation
+  initial setting
+FOR SIRT TIME WE USED TO GIT CONFIG TO IDENTIFY WHO YOU ARE     
+  In terminal use this command : git config -- global user.name "Username "
+  git config -- global user.email "email@gmail.com "
+  create folder in terminal
+mkdr
+firt git clone to copy the url from the browser
+  then git clone "Paste 
